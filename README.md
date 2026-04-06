@@ -1,192 +1,73 @@
-# Hi, I'm Jevgenijs
-
-## Automation Architect | Make.com, Zapier, n8n | CRM, Scheduling, API Integrations
-
-I design and build automation systems that replace manual operations with reliable, scalable workflows.
-
-My focus is not just connecting apps. I build complete process automation with routing logic, approvals, retries, CRM sync, scheduling, document collection, and reporting.
+<h1 align="center">Automation Architect</h1>
+<p align="center">
+Make.com • Zapier • n8n • CRM • API Integrations • AI Automation
+</p>
 
 ---
 
-## What I Do
+## 🚀 What I Do
+I design and build **end-to-end automation systems** that replace manual workflows with scalable, reliable processes.
 
-- Build end-to-end automation systems
-- Design CRM and sales workflow automation
-- Automate client intake and onboarding
-- Connect scheduling, forms, documents, and task systems
-- Build Slack-based internal operations flows
-- Create API and webhook integrations
-- Improve reliability with retries, logging, and exception handling
-- Reduce manual work and operational cost
+- Lead intake → qualification → scheduling → CRM → follow-up  
+- Client onboarding → forms → documents → tasks → reporting  
+- Slack-based internal operations & approvals  
+- API-driven integrations with fault-tolerant architecture  
 
 ---
 
-## Featured Workflow Experience
+## ⚡ Featured Systems
 
-### 1. Lead Automation Workflow
-Built a multi-step automation connecting:
+### 🔹 Lead Automation System
+Zapier + Slack + Google Calendar + CRM  
+- AI lead scoring and routing  
+- Automated scheduling & notifications  
+- Manager approval workflows  
+- No-show detection + rebooking  
+- Full lifecycle tracking  
 
-- Zapier
-- Slack
-- Google Calendar
-- CRM
-- Email tools
-
-#### Core logic:
-- webhook/form lead intake
-- duplicate checks
-- AI lead scoring
-- qualification routing
-- calendar slot search
-- meeting scheduling
-- Slack notifications
-- manager approval path
-- CRM updates
-- reminders
-- no-show and rebooking flow
-- reporting and tracking
+### 🔹 Client Onboarding System
+Make.com + Acuity + PreciseFP + Asana + ShareFile  
+- Appointment-triggered onboarding  
+- Intake forms + validation  
+- Document collection automation  
+- Task orchestration in Asana  
+- Follow-ups, retries, and reporting  
 
 ---
 
-### 2. Client Onboarding Workflow
-Built a Make.com automation connecting:
+## 🧠 Tech Stack
 
-- Acuity Scheduling
-- PreciseFP
-- Asana
-- ShareFile
-- CRM
-- Slack
+**Automation**  
+Make.com • Zapier • n8n  
 
-#### Core logic:
-- appointment-triggered onboarding
-- client create/update flow
-- intake form delivery
-- submission validation
-- missing data reminders
-- document request and collection
-- task creation in Asana
-- team notifications in Slack
-- follow-up and rescheduling
-- retry and exception handling
-- reporting and archive flow
+**Integrations**  
+APIs • Webhooks • OAuth • JSON  
 
----
+**Systems**  
+HubSpot • Salesforce • GHL • Pipedrive  
+Acuity • Calendly • Google Calendar  
+Slack • Twilio • Gmail  
+ShareFile • Google Drive • Dropbox  
 
-## Tech Stack
+**Data & Reporting**  
+Airtable • Google Sheets • PostgreSQL  
+Looker Studio • Power BI  
 
-### Automation Platforms
-- Make.com
-- Zapier
-- n8n
-- Pabbly
-- Integrately
-
-### APIs and Backend Logic
-- REST API
-- Webhooks
-- OAuth2
-- JSON mapping and transformation
-- Node.js
-- Express
-- Python
-- Serverless functions
-
-### CRM and Sales Systems
-- HubSpot
-- Salesforce
-- GoHighLevel
-- Pipedrive
-- Zoho CRM
-
-### Scheduling and Intake
-- Acuity Scheduling
-- Calendly
-- Google Calendar
-- Typeform
-- Jotform
-- Tally
-
-### Communication and Notifications
-- Slack
-- Twilio
-- Gmail
-- Outlook
-- WhatsApp API
-
-### Documents and File Systems
-- ShareFile
-- Google Drive
-- Dropbox
-- OneDrive
-- PandaDoc
-- DocuSign
-
-### Data and Reporting
-- Airtable
-- Google Sheets
-- Apps Script
-- PostgreSQL
-- MySQL
-- Looker Studio
-- Power BI
-
-### Advanced Workflow Design
-- routers and conditional paths
-- approval systems
-- retry logic
-- dead-letter queue patterns
-- idempotency
-- rate limiting
-- queue-based processing
-- state-driven workflows
-- audit logging
-
-### AI Automation
-- OpenAI
-- Claude
-- AI scoring and classification
-- intelligent routing
-- prompt-driven workflow actions
+**Advanced**  
+AI (OpenAI, Claude)  
+Routing logic • retries • DLQ  
+state-driven workflows • audit logs  
 
 ---
 
-## How I Build
-
-I build automations that are:
-
-- scalable
-- production-ready
-- easy to maintain
-- cost-aware
-- fault-tolerant
-
-I think in systems, not isolated tasks.
+## 🏗️ How I Build
+- System-first thinking, not task-based  
+- Scalable and production-ready  
+- Fault-tolerant with retries and logging  
+- Clean, maintainable architecture  
 
 ---
 
-## Current Focus
-
-- business process automation
-- CRM workflow architecture
-- scheduling and onboarding systems
-- Slack operations workflows
-- AI-enhanced automation
-- custom integrations using APIs and webhooks
-
----
-
-## Let's Connect
-
-- Upwork: [Your Upwork Profile URL]
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
-
----
-
-## GitHub Profile Notes
-
-This profile highlights automation architecture, integration design, and workflow systems across sales, onboarding, operations, and reporting.
-
-If your business process has too many manual steps, delays, or handoff issues, I can design a cleaner system.
+<p align="center">
+⚡ Turning complex business processes into clean, automated systems
+</p>
