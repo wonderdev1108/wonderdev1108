@@ -1,73 +1,77 @@
-<h1 align="center">Automation Architect</h1>
-<p align="center">
-Make.com • Zapier • n8n • CRM • API Integrations • AI Automation
-</p>
+Senior Blockchain Engineer / Backend Engineer focused on building stable, scalable, and production-ready systems for crypto and blockchain products.
 
----
+I have experience working on backend-heavy blockchain-related platforms, including crypto media/data systems such as CoinPost, where reliability, fast data processing, API stability, scheduled jobs, and system performance were important.
 
-## 🚀 What I Do
-I design and build **end-to-end automation systems** that replace manual workflows with scalable, reliable processes.
+My strength is not only writing code, but understanding the full product flow and building backend systems that can run reliably in real-world environments.
 
-- Lead intake → qualification → scheduling → CRM → follow-up  
-- Client onboarding → forms → documents → tasks → reporting  
-- Slack-based internal operations & approvals  
-- API-driven integrations with fault-tolerant architecture  
+## What I Do
 
----
+* Blockchain backend development
+* Crypto data processing and API integration
+* Backend architecture for Web3 products
+* Scheduled workers and automation pipelines
+* Database design and optimization
+* Smart contract interaction and blockchain data handling
+* System debugging, monitoring, and performance improvement
+* Building projects from scratch for early-stage teams
 
-## ⚡ Featured Systems
+## Core Skills
 
-### 🔹 Lead Automation System
-Zapier + Slack + Google Calendar + CRM  
-- AI lead scoring and routing  
-- Automated scheduling & notifications  
-- Manager approval workflows  
-- No-show detection + rebooking  
-- Full lifecycle tracking  
+**Backend**
 
-### 🔹 Client Onboarding System
-Make.com + Acuity + PreciseFP + Asana + ShareFile  
-- Appointment-triggered onboarding  
-- Intake forms + validation  
-- Document collection automation  
-- Task orchestration in Asana  
-- Follow-ups, retries, and reporting  
+* Python
+* Node.js / TypeScript
+* REST APIs
+* WebSocket APIs
+* Background workers
+* Cron jobs / scheduled tasks
+* Queue-based processing
+* Database design
 
----
+**Blockchain**
 
-## 🧠 Tech Stack
+* Ethereum / EVM ecosystem
+* Web3 integrations
+* Wallet and transaction flow
+* On-chain/off-chain data processing
+* Crypto market data systems
+* Blockchain explorer/API integrations
 
-**Automation**  
-Make.com • Zapier • n8n  
+**Infrastructure**
 
-**Integrations**  
-APIs • Webhooks • OAuth • JSON  
+* Docker
+* Linux
+* PostgreSQL / MySQL
+* Redis
+* AWS / cloud deployment
+* CI/CD basics
+* Monitoring and log-based debugging
 
-**Systems**  
-HubSpot • Salesforce • GHL • Pipedrive  
-Acuity • Calendly • Google Calendar  
-Slack • Twilio • Gmail  
-ShareFile • Google Drive • Dropbox  
+## Project Experience
 
-**Data & Reporting**  
-Airtable • Google Sheets • PostgreSQL  
-Looker Studio • Power BI  
+### CoinPost-related Backend Development
 
-**Advanced**  
-AI (OpenAI, Claude)  
-Routing logic • retries • DLQ  
-state-driven workflows • audit logs  
+I took part in backend development for a Japanese crypto and blockchain media platform.
 
----
+Website: https://coinpost.jp/
 
-## 🏗️ How I Build
-- System-first thinking, not task-based  
-- Scalable and production-ready  
-- Fault-tolerant with retries and logging  
-- Clean, maintainable architecture  
+My work was mainly backend-side, including API logic, data handling, scheduled jobs, integration logic, debugging, and improving stability. The project required a strong understanding of crypto-related data flow, high availability, and fast content/data delivery.
 
----
+## How I Work
 
-<p align="center">
-⚡ Turning complex business processes into clean, automated systems
-</p>
+I prefer working with clear ownership.
+When I join a project, I try to understand the product goal first, then design the backend flow, data structure, API layer, worker logic, and deployment process.
+
+I am comfortable working in early-stage teams where requirements can change quickly and engineers need to be practical, stable, and responsible.
+
+## Current Focus
+
+* Blockchain infrastructure
+* Web3 backend systems
+* Crypto data platforms
+* Scalable backend architecture
+* Long-term product engineering for Seed / Series A stage startups
+
+## Contact
+
+Open to long-term blockchain/backend engineering roles where reliability, ownership, and product mindset are important.
